@@ -1,0 +1,11 @@
+{
+	"id": "throwmovement",
+	"name": "Throw Movement",
+	"version": "1.1",
+	"hide_version": true,
+	"authors": "laura"
+	"description": "Adds the ability to generate rocks while on the ground, while one is in the stomach.",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false
+}
